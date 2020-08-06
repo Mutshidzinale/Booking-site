@@ -1,0 +1,10 @@
+body {
+  font-family: "Raleway",Sams-serif;
+  font-weight: 400;
+  color: #ffff;
+  letter-spacing: 1px;
+}
+.container {
+  background-color: #fafafa;
+  margin: 200px;
+}
